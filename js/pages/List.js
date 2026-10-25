@@ -103,6 +103,9 @@ export default {
                         Achieved the record without using hacks (FPS bypass isn't allowed)
                     </p>
                     <p>
+                        Level must be 30 seconds or under, we don't accept levels that are 31 seconds long
+                    </p>
+                    <p>    
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
