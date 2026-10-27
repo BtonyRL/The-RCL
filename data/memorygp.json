@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
+                {
+             "user": "MusicCreatorGuy",
+            "link": "https://cdn.discordapp.com/attachments/1563709583447564378/1563709584319844372/2026-10-25_11-18-32_-_Trim.mp4?ex=6ae1e949&is=6ae097c9&hm=8de44c9a0dd0742f52a58f525174875f46b6ee35d393456c499dd5f0904d0785&",
+            "hz": "280",
+            "percent": 100
+        }
     ]
 }
